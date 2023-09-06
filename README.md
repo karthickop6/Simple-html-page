@@ -48,4 +48,9 @@ To view this project on your local machine, follow these steps:
 
 Once you open the index.html file in your web browser, you will see a simple webpage displaying my top 3 favorite movies . You can use this project as a starting point to learn HTML or as a template to showcase your own favorite movies.
 
+## View:
+![Screenshot 2023-09-06 184945](https://github.com/karthickop6/Simple-html-page/assets/72570119/78c8da0d-e047-4dda-825d-917049265c90)
+
+
+
 Feel free to customize the content and styling of the webpage to make it your own!
